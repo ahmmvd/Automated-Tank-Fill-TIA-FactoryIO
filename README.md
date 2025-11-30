@@ -5,7 +5,7 @@
 This project simulates an automated water tank level control system. It utilizes PID logic  to maintain water levels between specific setpoints, discharging automatically when the threshold is reached.
 
 ## 🛠 Tools Used
-* **Logic:** Siemens TIA Portal V17 (Ladder Diagram)
+* **Logic:** Siemens TIA Portal V15.1 (Ladder Diagram)
 * **Simulation:** Factory I/O
 * **HMI:** Siemens TP1500 Comfort Pro (Simulated)
 
@@ -20,4 +20,4 @@ This project simulates an automated water tank level control system. It utilizes
 * `.fio`: Factory I/O Scene file.
 
 ## 🎥 Demo
-[Link to your LinkedIn Video post can go here later]
+(https://www.linkedin.com/posts/ahmmvd_automation-siemens-tiaportal-activity-7400852670732808192-9ft8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADk01YQBjfC-WgStnXbhIyrJOVlpMkgdL1Q)
